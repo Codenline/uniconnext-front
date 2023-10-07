@@ -1,3 +1,4 @@
+"use client"
 import { CardLogin } from "./components/CardLogin"
 
 export default function Login() {

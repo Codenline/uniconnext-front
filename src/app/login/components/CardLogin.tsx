@@ -1,6 +1,6 @@
 export function CardLogin() {
   return (
-  <div>
+  <div className="bg-">
     <div>
       <img src="" alt="" />
       <input type="text" />
